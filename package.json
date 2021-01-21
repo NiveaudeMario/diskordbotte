@@ -1,0 +1,14 @@
+{
+  "name": "monokuma-bot",
+  "version": "1.0.0",
+  "description": "bot monokuma",
+  "main": "index.js",
+  "author": "Qua_991",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
